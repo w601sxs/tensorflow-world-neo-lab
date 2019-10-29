@@ -2,7 +2,7 @@
 
 1. Go to https://dashboard.eventengine.run
 
-1. Enter the hash corresponding to your table number and click on Proceed
+1. Enter the hash corresponding to your table number (see https://github.com/w601sxs/tensorflow-world-neo-lab/blob/master/hashes.csv) and click on Proceed
 
 1. Click on AWS Console
 
