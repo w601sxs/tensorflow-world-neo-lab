@@ -4,6 +4,8 @@
 
 1. Enter the hash corresponding to your table number (open this [table](https://github.com/w601sxs/tensorflow-world-neo-lab/blob/master/hashes.csv) in a new tab) and click on Proceed
 
+*Please make sure you use the hash corresponding to your table number. Thanks!*
+
 1. Click on AWS Console
 
 1. Click on Open Console. This will launch AWS Console. Note - you can disregard the credential information
