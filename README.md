@@ -2,7 +2,7 @@
 
 1. Go to https://dashboard.eventengine.run
 
-1. Enter the hash provided by the workshop administrator and click on Proceed
+1. Enter the hash corresponding to your table number and click on Proceed
 
 1. Click on AWS Console
 
