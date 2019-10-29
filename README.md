@@ -14,6 +14,4 @@
 
 1. You should see one running notebook instance. Click "Open Jupyter". This should open up a Jupyter notebook interface.
 
-1. Click "Use" next to the title that says "tensorflow neo lab clean.ipynb"
-
 1. Follow instructions in the Notebooks for lab 1 (tensorflow neo lab 1 clean) and lab 2 (tensorflow neo lab 2 clean)
