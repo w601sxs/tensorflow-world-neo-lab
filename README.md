@@ -16,4 +16,4 @@
 
 1. Click "Use" next to the title that says "tensorflow neo lab clean.ipynb"
 
-1. Follow instructions in the Notebook
+1. Follow instructions in the Notebooks for lab 1 (tensorflow neo lab 1 clean) and lab 2 (tensorflow neo lab 2 clean)
